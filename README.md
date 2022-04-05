@@ -7,8 +7,6 @@ Hej alla glada människor!
 
 -Funkar-
 
-Test ifrån gitkraken - Gabriel
-
 Test ifrån Visual studio - Gabriel
 
 Test ifrån Visual studio - Markus
