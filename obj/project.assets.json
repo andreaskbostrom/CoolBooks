@@ -8,25 +8,25 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\marku\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\CoolBooks\\CoolBooks.csproj",
+      "projectUniqueName": "C:\\Users\\marku\\source\\repos\\CoolBooks\\CoolBooks.csproj",
       "projectName": "CoolBooks",
-      "projectPath": "C:\\Users\\andre\\source\\repos\\CoolBooks\\CoolBooks.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\source\\repos\\CoolBooks\\obj\\",
+      "projectPath": "C:\\Users\\marku\\source\\repos\\CoolBooks\\CoolBooks.csproj",
+      "packagesPath": "C:\\Users\\marku\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marku\\source\\repos\\CoolBooks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\marku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
