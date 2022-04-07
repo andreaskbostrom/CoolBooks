@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marku\\source\\repos\\CoolBooks\\CoolBooks.csproj": {}
+    "C:\\Users\\nixga\\Desktop\\Git\\CoolBooks\\CoolBooks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marku\\source\\repos\\CoolBooks\\CoolBooks.csproj": {
+    "C:\\Users\\nixga\\Desktop\\Git\\CoolBooks\\CoolBooks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marku\\source\\repos\\CoolBooks\\CoolBooks.csproj",
+        "projectUniqueName": "C:\\Users\\nixga\\Desktop\\Git\\CoolBooks\\CoolBooks.csproj",
         "projectName": "CoolBooks",
-        "projectPath": "C:\\Users\\marku\\source\\repos\\CoolBooks\\CoolBooks.csproj",
-        "packagesPath": "C:\\Users\\marku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marku\\source\\repos\\CoolBooks\\obj\\",
+        "projectPath": "C:\\Users\\nixga\\Desktop\\Git\\CoolBooks\\CoolBooks.csproj",
+        "packagesPath": "C:\\Users\\nixga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nixga\\Desktop\\Git\\CoolBooks\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\marku\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\nixga\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
