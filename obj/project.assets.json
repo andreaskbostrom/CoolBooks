@@ -9447,25 +9447,31 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Microsoft.EntityFrameworkCore >= 6.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.3",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.3",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.2"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nixga\\.nuget\\packages\\": {}
+    "C:\\Users\\marku\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nixga\\Desktop\\Git\\CoolBooks\\CoolBooks.csproj",
+      "projectUniqueName": "C:\\Users\\marku\\source\\repos\\CoolBooks\\CoolBooks.csproj",
       "projectName": "CoolBooks",
-      "projectPath": "C:\\Users\\nixga\\Desktop\\Git\\CoolBooks\\CoolBooks.csproj",
-      "packagesPath": "C:\\Users\\nixga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nixga\\Desktop\\Git\\CoolBooks\\obj\\",
+      "projectPath": "C:\\Users\\marku\\source\\repos\\CoolBooks\\CoolBooks.csproj",
+      "packagesPath": "C:\\Users\\marku\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marku\\source\\repos\\CoolBooks\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\nixga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9491,6 +9497,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[6.0.3, )"
+          },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[6.0.3, )"

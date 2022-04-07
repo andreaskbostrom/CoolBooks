@@ -1,12 +1,6 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "vtiXQbUxV2Uxdto0nd5mnpOfw0xhb1vR+Gk1djO8QampyrsOfutoY1MVQDu4dxeL9gs+N6PN2AactAsWbOUzkA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\nixga\\Desktop\\Git\\CoolBooks\\CoolBooks.csproj",
-  "expectedPackageFiles": [],
-=======
-  "dgSpecHash": "7DFj6Wh5+ZBwO4CJXOc8C2IXmXFHVtFPjNBhn/MdYxb9/yCvo4KjYjhpkxyq4lk0X+sXy51Q0MI013ABIL0eYQ==",
+  "dgSpecHash": "+dF6nM8Dde3l4mp1BaVG3uoCE4YnW4PQm24B9kJ6Fi+lG/coCc0yCMPQVqBlP3payj5ToDh2Lk2HRP83cQ/dYw==",
   "success": true,
   "projectFilePath": "C:\\Users\\marku\\source\\repos\\CoolBooks\\CoolBooks.csproj",
   "expectedPackageFiles": [
@@ -182,6 +176,5 @@
     "C:\\Users\\marku\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\marku\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
->>>>>>> main
   "logs": []
 }
