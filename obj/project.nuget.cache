@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M6AFwZU9Ybh3Whd4cMQdHUjWghG4zpWioUTyfAKPTDoEiDEjNuh4KrWyWQv4pMyVFuDpYJgo/XABVeO4TuTfDw==",
+  "dgSpecHash": "7DFj6Wh5+ZBwO4CJXOc8C2IXmXFHVtFPjNBhn/MdYxb9/yCvo4KjYjhpkxyq4lk0X+sXy51Q0MI013ABIL0eYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marku\\source\\repos\\CoolBooks - kopia (2)\\CoolBooks.csproj",
+  "projectFilePath": "C:\\Users\\marku\\source\\repos\\CoolBooks\\CoolBooks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marku\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\marku\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
