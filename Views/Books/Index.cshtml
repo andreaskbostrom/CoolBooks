@@ -1,9 +1,9 @@
 ﻿@model IEnumerable<CoolBooks.Models.Books>
 
-@{
+@*@{
     Layout = null;
 }
-
+*@
 <!DOCTYPE html>
 
 <html>
@@ -64,7 +64,9 @@
                 @Html.DisplayFor(modelItem => item.ISBN)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.ImagePath)
+                <img alt="" src="@Html.DisplayFor(modelItem => item.ImagePath)">
+                @*<a href="@Html.DisplayFor(modelItem => item.ImagePath)">@Html.DisplayFor(modelItem => item.ImagePath)</a>*@
+
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.IsDeleted)
@@ -73,10 +75,10 @@
                 @Html.DisplayFor(modelItem => item.Created)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Author.AuthorID)
+                @Html.DisplayFor(modelItem => item.Author.FullName)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Gener.GenerID)
+                @Html.DisplayFor(modelItem => item.Gener.Name)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.BooksID">Edit</a> |

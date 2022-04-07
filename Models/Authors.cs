@@ -28,5 +28,14 @@ namespace CoolBooks.Models
 
         [InverseProperty("Author")]
         public virtual ICollection<Books> Books { get; set; }
+
+        [NotMapped]
+        public string FullName
+        {
+            get
+            {
+                return FirstName + " " + LastName;
+            }
+        }
     }
 }

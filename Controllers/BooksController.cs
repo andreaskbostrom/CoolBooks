@@ -50,8 +50,8 @@ namespace CoolBooks.Controllers
         // GET: Books/Create
         public IActionResult Create()
         {
-            ViewData["AuthorID"] = new SelectList(_context.Authors, "AuthorID", "AuthorID");
-            ViewData["GenerID"] = new SelectList(_context.Genres, "GenerID", "GenerID");
+            ViewData["AuthorID"] = new SelectList(_context.Authors, "AuthorID", "FullName");
+            ViewData["GenerID"] = new SelectList(_context.Genres, "GenerID", "Name");
             return View();
         }
 
