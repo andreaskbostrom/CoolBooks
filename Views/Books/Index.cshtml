@@ -64,7 +64,12 @@
                 @Html.DisplayFor(modelItem => item.ISBN)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.ImagePath)
+                <img alt="" src="@Html.DisplayFor(modelItem => item.ImagePath)">
+
+                @*<a href="@Html.DisplayFor(modelItem => item.ImagePath)">@Html.DisplayFor(modelItem => item.ImagePath)</a>*@
+
+=======
+>>>>>>> f19ec914279410b838672c6c6b1b5acda787a3e2
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.IsDeleted)
